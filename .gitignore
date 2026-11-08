@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+solver/
+dist/
+build/
+*.spec
+preview/
+
+# build output and logs
+build.log
+*.exe
+*.log
+
+# local, large or third-party material that stays on this PC
+doc/
+reference_examples/vessel_puncture/*.vtk
+.claude/settings.local.json
+rp_run/

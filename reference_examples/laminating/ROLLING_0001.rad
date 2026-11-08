@@ -1,0 +1,32 @@
+#/ABF
+#0.000100 1000000000000000000000000000000.000000
+/ANIM/DT
+#   TSTART     TFREQ
+0.000000 0.050000
+/ANIM/MASS
+/MON/ON
+/PRINT/-1
+/RFILE
+#   NCYCLE
+900000
+/RUN/ROLLING/1
+                   1
+/TFILE/4
+#            dT_HIS
+0.000100
+/TITLE
+CD338                                                                                               
+/VERS/2017
+/ANIM/VECT/VEL
+/ANIM/VECT/CONT
+/ANIM/NODA/DT
+/ANIM/NODA/DMAS
+/ANIM/ELEM/VONM
+/ANIM/ELEM/EPSP
+/ANIM/ELEM/HOURG
+/ANIM/GZIP
+/DT/BRICK/CST
+0.9 4E-5
+/DT/NODA
+0.9  0
+
